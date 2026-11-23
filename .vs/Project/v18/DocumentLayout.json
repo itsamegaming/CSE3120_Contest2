@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rl800\\Downloads\\Contest2\\Project32_VS2015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Users\\rl800\\Downloads\\Contest2\\Project32_VS2015\\casino.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:casino.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "casino.asm",
+              "DocumentMoniker": "C:\\Users\\rl800\\Downloads\\Contest2\\Project32_VS2015\\casino.asm",
+              "RelativeDocumentMoniker": "casino.asm",
+              "ToolTip": "C:\\Users\\rl800\\Downloads\\Contest2\\Project32_VS2015\\casino.asm*",
+              "RelativeToolTip": "casino.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T02:50:36.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
